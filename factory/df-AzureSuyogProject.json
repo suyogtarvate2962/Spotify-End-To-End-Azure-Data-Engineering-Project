@@ -1,0 +1,9 @@
+{
+	"name": "df-AzureSuyogProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d5240d20-2f75-46fe-ad4f-fb2c23f85d5d",
+		"tenantId": "80a97f91-65e0-483e-b20f-579352731010"
+	}
+}
